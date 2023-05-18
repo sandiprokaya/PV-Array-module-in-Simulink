@@ -1,0 +1,10 @@
+here in the simulink model, we have got AAVID solar ASMS-165P solar module
+with the input  irredence value 100 at the temperature of 25 degree celcius.
+
+for the given model AAVID solar ASMS-165P
+the plot between the current, power VS voltage, the follwing conclusionn can be made
+
+1. current increaseas with the increase in voltage.
+2. power increases with the increase in voltage.
+3. at the certain point of increase in voltge level,the current as well as power decreases.
+4. it is shown that at the higher temperature the pv array is less effecient than pv array at lower temperature.
